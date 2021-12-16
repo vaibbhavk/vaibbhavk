@@ -8,7 +8,7 @@ I am a Computer Science student and a self-taught Software Developer with an exc
 
 📱+91 8770911462
 
-🔗 [Github](https://github.com/vaibbhavk) 
+[vaibbhavk - Overview](https://github.com/vaibbhavk)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-kesharwani-5b8137111/)
 
@@ -22,14 +22,14 @@ I am a Computer Science student and a self-taught Software Developer with an exc
 
 ## Full Stack Web Development
 
-WebBrainsMedia, Internship (Remote) – (01/09/2021-07/10/2021)
+WebBrainsMedia*, Internship (Remote) – (01/09/2021-07/10/2021)*
 
 - Build a CRM showcase website and a management dashboard for the same.
 - Used React, Firebase, Gatsby, HTML, CSS, Material UI, JavaScript, Framer Motion.
 
 ## Frontend Web Development
 
-Hunzel Infratech, Internship (Remote) – (01/09/2021-03/10/2021)
+Hunzel Infratech*, Internship (Remote) – (01/09/2021-03/10/2021)*
 
 - Built an E-Commerce and a management website for the same, from scratch (frontend).
 - Features include Buying, Selling, Renting, Chat system between product manager and service manager, etc..
@@ -52,6 +52,15 @@ Chennai, Tamil Nadu, India
 01/2021 - Present
 
 ---
+
+# 💻 Personal Projects
+
+## Library Management System API
+
+- https://github.com/d3mast3rs/lms-backend
+- Building a Library Management System API using Django Rest Framework.
+
+11/2021 - Present
 
 ## 💻 Programming Languages
 

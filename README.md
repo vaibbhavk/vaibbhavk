@@ -8,8 +8,6 @@ I am a Computer Science student and a self-taught Software Developer with an exc
 
 📱+91 8770911462
 
-[vaibbhavk - Overview](https://github.com/vaibbhavk)
-
 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-kesharwani-5b8137111/)
 
 🔗 [Facebook](https://www.facebook.com/vaibhav.vk28/)

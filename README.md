@@ -1,6 +1,6 @@
 # Vaibhav Kesharwani
 
-I am a Computer Science student and a self-taught Software Developer with an excellent problem-solving skills and an ability to perform well in a team.
+I am a Computer Science student and a Software Developer with an excellent problem-solving skills and an ability to perform well in a team.
 
 # ☎️ Contact information
 

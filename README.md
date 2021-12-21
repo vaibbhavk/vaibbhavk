@@ -79,6 +79,7 @@ Chennai, Tamil Nadu, India
 
 - React
 - Node.js
+- Next.js
 - Django
 - Android
 - Data Structures and Algorithms

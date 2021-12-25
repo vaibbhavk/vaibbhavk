@@ -60,10 +60,10 @@ Chennai, Tamil Nadu, India
 
 11/2021 - Present
 
-## Library Management System API
+## Parking Lot System API
 
-- https://github.com/vaibbhavk/electrics-backend
-- Building an E-Commerce API using Node.js and Express.
+- https://github.com/vaibbhavk/parking-lot-backend
+- Building an Parking Lot API using Node.js and Express.
 
 12/2021 - Present
 

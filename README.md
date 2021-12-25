@@ -62,11 +62,11 @@ Chennai, Tamil Nadu, India
 
 ## Parking Lot System
 
-- Backend
+### Backend
 - https://github.com/vaibbhavk/parking-lot-backend
 - Node.js, Express, Sequelize, JWT Authentication, MySQL.
 
-- Frontend
+### Frontend
 - https://github.com/vaibbhavk/parking-lot-frontend
 - Next.js, React, Redux-toolkit, MUI.
 

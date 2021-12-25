@@ -68,7 +68,7 @@ Chennai, Tamil Nadu, India
 
 - Frontend
 - https://github.com/vaibbhavk/parking-lot-frontend
-- Next.js, React, Redux-toolkit, MUI, HTML, CSS, Axios.
+- Next.js, React, Redux-toolkit, MUI.
 
 12/2021 - Present
 

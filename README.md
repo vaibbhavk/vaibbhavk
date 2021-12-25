@@ -60,10 +60,15 @@ Chennai, Tamil Nadu, India
 
 11/2021 - Present
 
-## Parking Lot System API
+## Parking Lot System
 
+- Backend
 - https://github.com/vaibbhavk/parking-lot-backend
-- Building an Parking Lot API using Node.js and Express.
+- Node.js, Express, Sequelize, JWT Authentication, MySQL.
+
+- Frontend
+- https://github.com/vaibbhavk/parking-lot-frontend
+- Next.js, React, Redux-toolkit, MUI, HTML, CSS, Axios.
 
 12/2021 - Present
 

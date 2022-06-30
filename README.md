@@ -92,7 +92,8 @@ Chennai, Tamil Nadu, India
 - SQL
 - NoSQL
 - Firebase
-- RESTful API
+- REST API
+- Flask
 
 ---
 

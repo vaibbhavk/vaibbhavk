@@ -27,7 +27,7 @@ WebBrainsMedia, Internship (Remote) – (01/09/2021-07/10/2021)
 
 ## Frontend Web Development
 
-Hunzel Infratech, Internship (Remote) – (01/09/2021-03/10/2021)
+Hunzel Infratech, Internship (Remote) – (01/08/2021-03/09/2021)
 
 - Built an E-Commerce and a management website for the same, from scratch (frontend).
 - Features include Buying, Selling, Renting, Chat system between product manager and service manager, etc..

@@ -22,7 +22,7 @@ I am a Computer Science student and a passionate Software developer with an exce
 
 WebBrainsMedia, Internship (Remote) – (01/09/2021-07/10/2021)
 
-- Build a CRM showcase website and a management dashboard for the same.
+- Built a CRM showcase website and a management dashboard for the same.
 - Used React, Firebase, Gatsby, HTML, CSS, Material UI, JavaScript, Framer Motion.
 
 ## Frontend Web Development

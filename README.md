@@ -72,17 +72,21 @@ Chennai, Tamil Nadu, India
 # 🛠 Skills
 
 - React
+- HTML
+- CSS
 - Node.js
 - Next.js
 - Django
 - Android
 - Data Structures and Algorithms
+- Machine Learning
 - Problem Solving
 - SQL
 - NoSQL
 - Firebase
 - REST API
 - Flask
+- Git
 
 ---
 

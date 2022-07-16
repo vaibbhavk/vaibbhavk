@@ -53,24 +53,13 @@ Chennai, Tamil Nadu, India
 
 # 💻 Personal Projects
 
-## Library Management System API
+## Kanban Board
 
-- https://github.com/d3mast3rs/lms-backend
-- Building a Library Management System API using Django Rest Framework.
+- [https://github.com/d3mast3rs/lms-backend](https://github.com/vaibbhavk/kanban)
+- Users can manage their projects through this kanban board.
+- Flask, Python, SQLAlchemy, Bootstrap, HTML, Jinja2.
 
-11/2021 - Present
-
-## Parking Lot System
-
-### Backend
-- https://github.com/vaibbhavk/parking-lot-backend
-- Node.js, Express, Sequelize, JWT Authentication, MySQL.
-
-### Frontend
-- https://github.com/vaibbhavk/parking-lot-frontend
-- Next.js, React, Redux-toolkit, MUI.
-
-12/2021 - Present
+06/2022 - 06/2022
 
 ## 💻 Programming Languages
 

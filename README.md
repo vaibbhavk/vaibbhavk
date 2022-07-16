@@ -55,7 +55,7 @@ Chennai, Tamil Nadu, India
 
 ## Kanban Board
 
-- [https://github.com/vaibbhavk/kanban](https://github.com/vaibbhavk/kanban)
+- [Link](https://github.com/vaibbhavk/kanban)
 - Users can manage their projects through this kanban board.
 - Flask, Python, SQLAlchemy, Bootstrap, HTML, Jinja2.
 

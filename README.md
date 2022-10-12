@@ -2,7 +2,7 @@
 
 I am a Computer Science student and a passionate Software developer with an excellent problem-solving skills and an ability to perform well in a team.
 
-# ☎️ Contact information
+# ☎️ Contact Info
 
 📧 vaibhav.vk2128@gmail.com
 
@@ -16,7 +16,7 @@ I am a Computer Science student and a passionate Software developer with an exce
 
 ---
 
-# **👩🏻‍💻** Work experience
+# **👩🏻‍💻** Work Experience
 
 ## Full Stack Web Development
 
@@ -40,9 +40,9 @@ Hunzel Infratech, Internship (Remote) – (01/08/2021-03/09/2021)
 Institute of Engineering, Jiwaji University -
 Gwalior, Madhya Pradesh, India
 
-09/2019 - Present
+09/2019 - 06/2023
 
-## **BSc in Programming and Data Science**
+## **BS in Data Science and Applications**
 
 Indian Institute of Technology Madras -
 Chennai, Tamil Nadu, India
@@ -53,13 +53,13 @@ Chennai, Tamil Nadu, India
 
 # 💻 Personal Projects
 
-## Kanban Board
+## Univcomm
 
-- [Link](https://github.com/vaibbhavk/kanban)
-- Users can manage their projects through this kanban board.
-- Flask, Python, SQLAlchemy, Bootstrap, HTML, Jinja2.
+- [Link](https://github.com/minor-project-1)
+- An app that has features similar to Quora, but limited to college/university campus.
+- FastAPI, React, MUI, PostgreSQL
 
-06/2022 - 06/2022
+09/2022 - Present
 
 ## 💻 Programming Languages
 
@@ -76,8 +76,9 @@ Chennai, Tamil Nadu, India
 - CSS
 - Node.js
 - Next.js
+- FastAPI
 - Django
-- Android
+- Android Development
 - Data Structures and Algorithms
 - Machine Learning
 - Problem Solving

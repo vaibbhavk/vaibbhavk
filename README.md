@@ -8,7 +8,7 @@ I am a Computer Science student and a passionate Software developer with an exce
 
 📱+91 8770911462
 
-🔗 [vaibhav-kesharwani.me](vaibhav-kesharwani.me)
+🔗 [Portfolio](https://vaibhav-kesharwani.me/)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-kesharwani-5b8137111/)
 

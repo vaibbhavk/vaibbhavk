@@ -27,14 +27,14 @@ I am a Computer Science student, a passionate Software developer, a Freelancer, 
 
 # **👩🏻‍💻** Work Experience
 
-## Full Stack Web Development
+## Full Stack Web Developer
 
 WebBrainsMedia, Internship (Remote) – (01/09/2021-07/10/2021)
 
 - Built a CRM showcase website and a management dashboard for the same.
 - Used React, Firebase, Gatsby, HTML, CSS, Material UI, JavaScript, Framer Motion.
 
-## Frontend Web Development
+## Frontend Web Developer
 
 Hunzel Infratech, Internship (Remote) – (01/08/2021-03/09/2021)
 

@@ -1,6 +1,8 @@
 # Vaibhav Kesharwani
 
-I am a Computer Science student and a passionate Software developer with an excellent problem-solving skills and an ability to perform well in a team.
+I am a Computer Science student, a passionate Software developer, a Freelancer, and an IIT Madras certified Data Scientist with excellent problem-solving skills and an ability to perform well in a team.
+
+&nbsp;
 
 # ☎️ Contact Info
 
@@ -8,15 +10,20 @@ I am a Computer Science student and a passionate Software developer with an exce
 
 📱+91 8770911462
 
-🔗 [Portfolio](https://vaibhav-kesharwani.me/)
+&nbsp;
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-kesharwani-5b8137111/)
+# 🔗 Links
 
-🔗 [Facebook](https://www.facebook.com/vaibhav.vk28/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vaibhav-kesharwani.me/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kesharwani-5b8137111/)
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vaibhav.vk28/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vk_2128/)
 
-🔗 [Instagram](https://www.instagram.com/vk_2128/)
+[![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/vaibbhavvk?public_mode=true)
+[![upwork](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e98ab6fa7c516372)
+[![freelancer](https://img.shields.io/badge/freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.in/u/vaibbhavvk)
 
----
+&nbsp;
 
 # **👩🏻‍💻** Work Experience
 
@@ -35,6 +42,8 @@ Hunzel Infratech, Internship (Remote) – (01/08/2021-03/09/2021)
 - Features include Buying, Selling, Renting, Chat system between product manager and service manager, etc..
 - Used React, HTML, CSS, JavaScript.
 
+&nbsp;
+
 # 📚 Education
 
 ## **BE in Computer Science and Engineering**
@@ -51,7 +60,7 @@ Chennai, Tamil Nadu, India
 
 01/2021 - Present
 
----
+&nbsp;
 
 # 💻 Personal Projects
 
@@ -63,21 +72,27 @@ Chennai, Tamil Nadu, India
 
 09/2022 - Present
 
-## 💻 Programming Languages
+&nbsp;
+
+# 💻 Programming Languages
 
 - Python
-- JavaScript
-- C++
 - Java
+- JavaScript
 - Kotlin
+- C++
+
+&nbsp;
 
 # 🛠 Skills
 
 - React
+- Vue
 - HTML
 - CSS
 - Node.js
 - Next.js
+- Flask
 - FastAPI
 - Django
 - Android Development
@@ -88,14 +103,11 @@ Chennai, Tamil Nadu, India
 - NoSQL
 - Firebase
 - REST API
-- Flask
 - Git
 
----
+&nbsp;
 
-## 🗣 Languages
+# 🗣 Languages
 
 - English
-- Hindi
-
----
+- Hindi (Native)

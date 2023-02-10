@@ -1,15 +1,5 @@
-# Vaibhav Kesharwani
-
-I am a Computer Science student, a passionate Software developer, a Freelancer, and an IIT Madras certified Data Scientist with excellent problem-solving skills and an ability to perform well in a team.
-
-&nbsp;
-
 <h1>Hello 👋, I'm Vaibhav Kesharwani</h1>
 <h3>I am a Computer Science student, a passionate Software developer, a Freelancer, and an IIT Madras certified Data Scientist with excellent problem-solving skills and an ability to perform well in a team.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibbhavk&show_icons=true&locale=en&layout=compact" alt="vaibbhavk" /></p>
 

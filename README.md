@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Vaibhav Kesharwani</h1>
-<h3>I am a Computer Science student, a passionate Software developer, a Freelancer, and an IIT Madras certified Data Scientist with excellent problem-solving skills and an ability to perform well in a team.</h3>
+<h3>I am a Data Science student, a passionate Software Developer, a Freelancer, and an IIT Madras certified Data Scientist with excellent problem-solving skills and an ability to perform well in a team.</h3>
 <br/>
 
 &nbsp;
@@ -16,8 +16,8 @@
 
 # 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vaibhav-kesharwani.me/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kesharwani-5b8137111/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vaibhav-k.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kesharwani/)
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vaibhav.vk28/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vk_2128/)
 
@@ -66,13 +66,25 @@ Chennai, Tamil Nadu, India
 
 # 💻 Personal Projects
 
-## Univcomm
+## Kanban
 
-- [Link](https://github.com/minor-project-1)
-- An app that has features similar to Quora, but limited to college/university campus.
-- FastAPI, React, MUI, PostgreSQL
+- [Link](https://docs.google.com/document/d/e/2PACX-1vRLDboJS0V0lN9vhqVsF4pH9ZjA62554IotDS2JCav6yriT89gfPB0Hx6fhrjD6cg/pub)
+- Track and manage tasks for a project in a professional setting or for personal use.
+- Added features such as drag and drop a card across lists, JWT Authentication, Cron jobs, Caching, PWA, Summary page for stats and trendlines.
+- Used Flask for server, Vue for client, SQLite for data storage, and SMTP server for sending reports.
 
-09/2022 - Present
+11/2022 - 12/2022
+
+&nbsp;
+
+## Kanban
+
+- [Link](https://docs.google.com/document/d/e/2PACX-1vRLDboJS0V0lN9vhqVsF4pH9ZjA62554IotDS2JCav6yriT89gfPB0Hx6fhrjD6cg/pub)
+- Track and manage tasks for a project in a professional setting or for personal use.
+- Added features such as drag and drop a card across lists, JWT Authentication, Cron jobs, Caching, PWA, Summary page for stats and trendlines.
+- Used Flask for server, Vue for client, SQLite for data storage, and SMTP server for sending reports.
+
+11/2022 - 12/2022
 
 &nbsp;
 

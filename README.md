@@ -81,8 +81,27 @@ Chennai, Tamil Nadu, India
 - [Link](https://github.com/vaibbhavk/personalised-offer-prediction)
 - Trained a model that predicts user behavior as to whether or not they would accept the offer for dining/takeaways.
 - Secured the 68th position on the private leaderboard out of 364 competitors.
+- #scikit-learn #Machine Learning #Python
 
-11/2022 - 12/2022
+11/2022 - 01/2023
+
+## My Portfolio
+
+- [Link](https://github.com/vaibbhavk/vk)
+- My personal portfolio website.
+- #Next.js #Sanity #Tailwind CSS
+
+01/2023 - Present
+
+## Univcomm
+
+- [Link](https://github.com/major-project-2)
+- Bridging the gap of communication between the Students, Faculty, and Alumni inside an institute.
+- Added features such as upvoting, downvoting, commenting on a post, raising hands, and answering questions.
+- Used WebSockets for Real-time updates from the server such as notifications, answering, and commenting.
+- #MUI #PostgreSQL #FastAPI #React #Task Scheduling #Docker #Celery #Redis #Cron Jobs
+
+05/2023 - 06/2023
 
 &nbsp;
 

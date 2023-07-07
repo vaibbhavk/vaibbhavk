@@ -72,15 +72,15 @@ Chennai, Tamil Nadu, India
 - Track and manage tasks for a project in a professional setting or for personal use.
 - Added features such as drag and drop a card across lists, JWT Authentication, Cron jobs, Caching, PWA, Summary page for stats and trendlines.
 - Used Flask for server, Vue for client, SQLite for data storage, and SMTP server for sending reports.
+- #Redis #Celery #Docker #Bootstrap #Vue #Flask #SQLite
 
 11/2022 - 12/2022
 
-## Kanban
+## Personalized Offer Prediction
 
-- [Link](https://docs.google.com/document/d/e/2PACX-1vRLDboJS0V0lN9vhqVsF4pH9ZjA62554IotDS2JCav6yriT89gfPB0Hx6fhrjD6cg/pub)
-- Track and manage tasks for a project in a professional setting or for personal use.
-- Added features such as drag and drop a card across lists, JWT Authentication, Cron jobs, Caching, PWA, Summary page for stats and trendlines.
-- Used Flask for server, Vue for client, SQLite for data storage, and SMTP server for sending reports.
+- [Link](https://github.com/vaibbhavk/personalised-offer-prediction)
+- Trained a model that predicts user behavior as to whether or not they would accept the offer for dining/takeaways.
+- Secured the 68th position on the private leaderboard out of 364 competitors.
 
 11/2022 - 12/2022
 

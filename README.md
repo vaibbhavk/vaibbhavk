@@ -75,8 +75,6 @@ Chennai, Tamil Nadu, India
 
 11/2022 - 12/2022
 
-&nbsp;
-
 ## Kanban
 
 - [Link](https://docs.google.com/document/d/e/2PACX-1vRLDboJS0V0lN9vhqVsF4pH9ZjA62554IotDS2JCav6yriT89gfPB0Hx6fhrjD6cg/pub)

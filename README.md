@@ -1,4 +1,4 @@
-<h1>Hello 👋, I'm Vaibhav Kesharwani</h1>
+<h1>Hello, I am Vaibhav Kesharwani</h1>
 <h3>I am a Data Science student, a passionate Software Developer, a Freelancer, and an IIT Madras certified Data Scientist with excellent problem-solving skills and an ability to perform well in a team.</h3>
 <br/>
 
